@@ -3,6 +3,7 @@ layout: cv
 title: Elizabeth Dinneny's CV
 ---
 # Elizabeth Dinneny
+PhD Candidate, University of Maryland Department of English
 
 
 <div id="webaddress">
@@ -69,13 +70,40 @@ co-written with Jeannette Schollaert, "[The Ghosts of Emily Dickinson: Hauntings
 ## Digital Archives Experience
 
 `2020-current`
-__Project Manager, *Dickinson Electronic Archives*__
+__Project Manager, *Dickinson Electronic Archives*__ 
+<ul class="a"> 
+<li>Design course syllabus with focus on feminist digital humanities, queer studies, and Dickinson scholarship</li>  
+<li>Manage DEA Digital Humanities internship program (1 to 7 interns), including course instruction and XML/TEI training</li>    
+<li>Transcribe Susan Dickinson’s travel journal for digital publication</li>  
+<li>Annotate, edit, and encode Martha Dickinson Bianchi’s memoir for digital publication</li>  
+<li>Led revision of 30+ transcribed items in "<a href="https://www.emilydickinson.org/writings-by-susan-dickinson">Writings by Susan Dickinson</a>"</li>   
+<li>Directed student-written exhibition on queer and feminist transcription practices</li>  
+<li>Developed and co-authored “The Ghosts of Emily Dickinson” exhibit on Dickinson in popular culture</li>  
+</ul>
+
 
 `2024-current`
 __Consultant, Recovery Hub for American Women Writers__
+<ul class="a">
+<li>Support a wide range of digital humanities projects</li>
+<li>Participate in monthly meetings with Recovery Hub staff</li>
+</ul>
+
+
 
 `2022`
 __Junior Fellow, Library of Congress__
+<ul class="a">
+<li>Authored peer-reviewed digital exhibit, HIV/AIDS and Public Broadcasting, for the American Archive of Public Broadcasting (AAPB)</li>
+<li>Exhibit included 18,000-word analysis and 150 public broadcasting programs</li> 
+<li>Expanded publicly available materials by identifying significant HIV/AIDS-related programming and assisting with rights requests</li>
+<li>Facilitated communication to obtain rights for Robert Hilferty’s award-winning documentary, “Stop the Church”</li>
+<li>Updated metadata for over 100 items in the AAPB online reading room</li>
+<li>Collaborated with Library outreach, social media, and legal teams</li>
+<li>Advised other Junior Fellows on research, writing, and time management strategies</li>
+<li>Represented the Library of Congress at open house for the 2022 American Library Association (ALA) Conference in Washington, D.C.</li>
+</ul> 
+
 
 ## Fellowships and Awards
 
@@ -109,8 +137,9 @@ American Studies Association
 Modern Language Association  
 National Women's Studies Association  
 Society for the Study of American Women Writers  
-
-###   -
+   
+    \\  
+          
 Last updated: August 2024   /  [GitHub](https://github.com/eliz-abeth)  /  [Twitter](https://x.com/elizdin)
 
 
