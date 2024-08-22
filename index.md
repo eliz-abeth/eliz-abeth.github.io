@@ -8,7 +8,7 @@ PhD Candidate, University of Maryland Department of English
 
 <div id="webaddress">
 <a href="mailto:edinneny@gmail.com">edinneny@gmail.com</a> // 
-<a href="/portfolio.html">portfolio</a>
+<a href="/portfolio">portfolio</a>
 
 </div>
 
