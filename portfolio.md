@@ -1,7 +1,6 @@
 ---
 permalink: /portfolio/
 layout: cv
+title: portfolio
 ---
-test
-
-#test
+# Portfolio
