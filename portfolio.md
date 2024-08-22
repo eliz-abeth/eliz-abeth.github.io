@@ -5,7 +5,7 @@ title: portfolio
 # Portfolio
 
 <div id="webaddress">
-<a href="mailto:edinneny@gmail.com">edinneny@gmail.com</a> // back to <a href="eliz-abeth.github.io">CV</a>
+<a href="mailto:edinneny@gmail.com">edinneny@gmail.com</a> // <a href="eliz-abeth.github.io">back to CV</a>
 
 </div>
 
@@ -16,7 +16,7 @@ __*HIV/AIDS and Public Broadcasting*__
 - Digital exhibit for the American Archive of Public Broadcasting
 
 `ongoing` 
-__Writings by Susan Dickinson__
+<a href="https://www.emilydickinson.org/writings-by-susan-dickinson">__Writings by Susan Dickinson__</a>
 - Transcription revision project for the *Dickinson Electronic Archives*
 
 `2022`

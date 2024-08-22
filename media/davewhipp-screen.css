@@ -92,12 +92,14 @@ ul {
 	margin-top: -0.5em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+ul.a {
+	list-style-type: circle;
 	position: relative;
-	left: -0.25em;
-}*/
+	left: 27%;
+	width: 52%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
+}
 
 li {
 	/*second line indent*/
