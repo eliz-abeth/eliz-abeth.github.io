@@ -2,7 +2,9 @@
 layout: cv
 title: portfolio
 ---
-# Portfolio
+# Elizabeth Dinneny
+PhD Candidate, University of Maryland Department of English
+
 
 <div id="webaddress">
 <a href="mailto:edinneny@gmail.com">edinneny@gmail.com</a> // <a href="eliz-abeth.github.io">back to CV</a>
@@ -23,6 +25,9 @@ __*HIV/AIDS and Public Broadcasting*__
 <a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">__The Ghosts of Emily Dickinson: Hauntings in Popular Culture__</a>
 - Co-edited with Jeannette Schollaert for the *Dickinson Electronic Archives*
 
-## Knowledge organization
+## Digital tools
 <a href="https://github.com/eliz-abeth/sandover">__Sandover__</a>
 - Literary-inspired CSS theme for <a href="https://obsidian.md">Obsidian</a>
+  <figure>
+  <img src="/_assets/Sandover_screenshot.png" alt="screenshot of Obsidian page using Sandover theme">
+  </figure>
