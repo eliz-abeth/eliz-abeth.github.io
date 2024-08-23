@@ -42,30 +42,30 @@ __Graduate Student Instructor, Department of English, University of Maryland__
 - Academic Writing (ENGL101). 20 students. 1 section.
 
 ## Publications
-*HIV/AIDS and Public Broadcasting.* American Archive of Public Broadcasting. Forthcoming December 2024.
+<p class="hangingindent"> <em>HIV/AIDS and Public Broadcasting.</em> American Archive of Public Broadcasting. Forthcoming December 2024.</p>
 
-co-written with Jeannette Schollaert, "[The Ghosts of Emily Dickinson: Hauntings in Popular Culture](https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture)." *Dickinson Electronic Archives.* eds. Martha Nell Smith and Marta Werner, 2021.
+<p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 
 ## Paper Presentations
-“‘Two People to Take Care Of’”: A Phenomenology of Spectral Identity in Patricia Highsmith's *The Talented Mr. Ripley*.” Mid-Atlantic Popular & American Culture Association. Philadelphia, PA, November 2023.
+<p class="hangingindent">“‘Two People to Take Care Of’”: A Phenomenology of Spectral Identity in Patricia Highsmith's <em>The Talented Mr. Ripley</em>.” Mid-Atlantic Popular & American Culture Association. Philadelphia, PA, November 2023. </p>
 
-“History, Disinterred: Ghosts and Historical (Re)vision in Joy Harjo’s ‘New Orleans.’” Popular Culture / American Culture Association in the South Conference. New Orleans, LA, September 2023. 
+<p class="hangingindent">“History, Disinterred: Ghosts and Historical (Re)vision in Joy Harjo’s ‘New Orleans.’” Popular Culture / American Culture Association in the South Conference. New Orleans, LA, September 2023.</p>
   
-“‘Christ…I Wish’: Queer Encounters with Patricia Highsmith’s The Price of Salt.” Queer Bibliography: Tools, Methods, Practices, Approaches. University of London, UK, February 2023. 
+<p class="hangingindent">“‘Christ…I Wish’: Queer Encounters with Patricia Highsmith’s <em>The Price of Salt</em>.” Queer Bibliography: Tools, Methods, Practices, Approaches. University of London, UK, February 2023. </p>
 
-“History, Disinterred: Autobiography as Historical (Re)vision in Joy Harjo’s ‘New Orleans.’” GEO Conference. University of Maryland, College Park, MD, 2022. 
+<p class="hangingindent">“History, Disinterred: Autobiography as Historical (Re)vision in Joy Harjo’s ‘New Orleans.’” GEO Conference. University of Maryland, College Park, MD, 2022. </p>
 
-“What’s At Stake: Vampiric Christian Bodies.” Rhodes Symposium. Rhodes College, Memphis, TN, 2019.
+<p class="hangingindent">“What’s At Stake: Vampiric Christian Bodies.” Rhodes Symposium. Rhodes College, Memphis, TN, 2019.</p>
 
-“Weird Flex, But OK: Fingering Christ’s Side Wound.” Gender and Sexuality Studies Symposium. Rhodes College, Memphis, TN, 2019. 
+<p class="hangingindent">“Weird Flex, But OK: Fingering Christ’s Side Wound.” Gender and Sexuality Studies Symposium. Rhodes College, Memphis, TN, 2019. </p>
 
 ## Invited Talks and Events
-“‘Lust, Degradation and Debauchery’: Lesbian Pulp and Fictional Identities.” Presented to Dylan Lewis’ LGBTQ+ Literatures and Media course at the University of Maryland, College Park, 2023.
+<p class="hangingindent">“‘Lust, Degradation and Debauchery’: Lesbian Pulp and Fictional Identities.” Presented to Dylan Lewis’ LGBTQ+ Literatures and Media course at the University of Maryland, College Park, 2023.</p>
 
-“Antiracism and Graduate Education: Commitments and Challenges.” Panelist. University of Maryland, College Park, MD, 2022. 
+<p class="hangingindent">“Antiracism and Graduate Education: Commitments and Challenges.” Panelist. University of Maryland, College Park, MD, 2022. </p>
 
 
-“The AIDS Epidemic and Public Broadcasting, 1981-2001.” Junior Fellows Program Display Day, Library of Congress, 2022. 
+<p class="hangingindent">“The AIDS Epidemic and Public Broadcasting, 1981-2001.” Junior Fellows Program Display Day, Library of Congress, 2022. </p>
 
 
 ## Digital Archives Experience
@@ -141,9 +141,8 @@ American Studies Association
 Modern Language Association  
 National Women's Studies Association  
 Society for the Study of American Women Writers  
-   
-    \\  
-          
+\
+\
 Last updated: August 2024   /  [GitHub](https://github.com/eliz-abeth)  /  [Twitter](https://x.com/elizdin)
 
 

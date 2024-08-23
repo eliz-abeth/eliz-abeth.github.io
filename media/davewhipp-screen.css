@@ -64,6 +64,7 @@ body {
 p {
 	position: relative;
 	left: 25%;
+	
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
@@ -94,6 +95,8 @@ ul {
 
 ul.a {
 	list-style-type: circle;
+	list-style-position: inside;
+	padding-left: 0;
 	position: relative;
 	left: 27%;
 	width: 52%;
@@ -190,8 +193,12 @@ strong {
 }
 
 
+.hangingindent {
+	padding-left: 22px ;
+	text-indent: -22px ;
+  } 
+
 
 /*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+amended
+*/
