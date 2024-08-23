@@ -128,13 +128,13 @@ Religious Studies Award, Rhodes College
 Facilitator, Lavender Lounge @ UMD 
 
 `2023-current`
-Volunteer Transcriber, *By the People*. Library of Congress.
+Volunteer Transcriber, *By the People*. Library of Congress
 
 `2021-2022`
-Advisor, Gaysians at UMD. University of Maryland.
+Advisor, Gaysians at UMD. University of Maryland
 
 `2020-2021`
-Secretary, Graduate English Organization. University of Maryland.
+Secretary, Graduate English Organization. University of Maryland
 
 ## Organizational Memberships
 American Studies Association  
