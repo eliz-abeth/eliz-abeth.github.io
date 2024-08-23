@@ -28,4 +28,4 @@ __*HIV/AIDS and Public Broadcasting*__
 ## Digital tools
 <a href="https://github.com/eliz-abeth/sandover">__Sandover__</a>
 - Literary-inspired CSS theme for <a href="https://obsidian.md">Obsidian</a>
-![screenshot of Obsidian page using Sandover theme](/_assets/Sandover_screenshot.png)
+![screenshot of Obsidian page using Sandover theme](/assets/combined-screenshot-sandover.jpg)

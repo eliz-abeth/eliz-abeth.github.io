@@ -124,6 +124,9 @@ Cynthia Marshall Award, Rhodes College
 Religious Studies Award, Rhodes College
 
 ## Service
+`2024-current`
+Facilitator, Lavender Lounge @ UMD 
+
 `2023-current`
 Volunteer Transcriber, *By the People*. Library of Congress.
 
