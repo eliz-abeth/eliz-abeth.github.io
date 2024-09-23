@@ -18,9 +18,9 @@ PhD Candidate, University of Maryland Department of English
 `2025 (expected)`
 __Doctor of Philosophy, English__
 - University of Maryland, College Park
-  - Dissertation: "Spectral Bodies: Housing, Status Property, and Sexuality in U.S. Literature"
-  - Committee: GerShun Avilez (chair), David Simon, Martha Nell Smith, Alexis Lothian
-  - Research focus: late 19th-20th century U. S. literature and poetry, queer and trans materialisms, phenomenology, affect studies, racial capitalism, digital humanities, queer book history
+- Dissertation: "Spectral Bodies: Housing, Status Property, and Sexuality in U.S. Literature"
+- Committee: GerShun Avilez (chair), David Simon, Martha Nell Smith, Alexis Lothian
+- Research focus: late 19th-21st century U. S. literature and poetry, queer and trans materialisms, phenomenology, affect studies, racial capitalism, digital humanities, queer book history
 
 `(2025)`
 __Graduate Certificate in Critical Theory__  
