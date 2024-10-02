@@ -136,6 +136,13 @@ Advisor, Gaysians at UMD, University of Maryland
 `2020-2021`
 Secretary, Graduate English Organization, University of Maryland
 
+## Professional Development
+`2024-2025`
+Inclusive Classroom Dynamics Learning Community, University of Maryland
+
+`2020`
+Affect Theory Reading Group, University of Maryland
+
 ## Organizational Memberships
 American Studies Association  
 Modern Language Association  
@@ -143,6 +150,6 @@ National Women's Studies Association
 Society for the Study of American Women Writers  
 \
 \
-Last updated: August 2024   /  [GitHub](https://github.com/eliz-abeth)  /  [Twitter](https://x.com/elizdin)
+Last updated: September 2024   /  [GitHub](https://github.com/eliz-abeth)  /  [Twitter](https://x.com/elizdin)
 
 
