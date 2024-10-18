@@ -42,12 +42,16 @@ __Graduate Student Instructor, Department of English, University of Maryland__
 - Academic Writing (ENGL101). 20 students. 1 section.
 
 ## Publications
+<p class="hangingindent">co-edited with Martha Nell Smith, "Susan Dickinson's Travel Journals: 1895 and 1902." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner. Forthcoming. </p>
+
 <p class="hangingindent"> <em>HIV/AIDS and Public Broadcasting.</em> American Archive of Public Broadcasting. Forthcoming December 2024.</p>
 
 <p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 
 ## Paper Presentations
-<p class="hangingindent">“‘Two People to Take Care Of’”: A Phenomenology of Spectral Identity in Patricia Highsmith's <em>The Talented Mr. Ripley</em>.” Mid-Atlantic Popular & American Culture Association. Philadelphia, PA, November 2023. </p>
+<p class="hangingindent">“‘I Could Love Differently’: Poetics of Queer Intimacy in Late Capitalism.” Northeast Modern Language Association Conference. Philadelphia, PA, March 2025 (accepted). </p>
+
+<p class="hangingindent">"'Two People to Take Care Of’: A Phenomenology of Spectral Identity in Patricia Highsmith's <em>The Talented Mr. Ripley</em>.” Mid-Atlantic Popular & American Culture Association. Philadelphia, PA, November 2023. </p>
 
 <p class="hangingindent">“History, Disinterred: Ghosts and Historical (Re)vision in Joy Harjo’s ‘New Orleans.’” Popular Culture / American Culture Association in the South Conference. New Orleans, LA, September 2023.</p>
   
@@ -142,6 +146,9 @@ Inclusive Classroom Dynamics Learning Community, University of Maryland
 
 `2020`
 Affect Theory Reading Group, University of Maryland
+
+`2019-2020`
+Critical Theory Colloquium, University of Maryland
 
 ## Organizational Memberships
 American Studies Association  
