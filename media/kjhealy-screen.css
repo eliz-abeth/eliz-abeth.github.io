@@ -49,7 +49,7 @@ table {
 
 /* end of reset */
 
-
+* {background-color: #fffaeb};
 
 body {
 	font: normal normal 400;
@@ -124,6 +124,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 33%;
+	font-weight: 600;
 }
 
 h1+p { 
