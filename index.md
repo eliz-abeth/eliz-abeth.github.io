@@ -42,9 +42,11 @@ __Graduate Student Instructor, Department of English, University of Maryland__
 - Academic Writing (ENGL101). 20 students. 1 section.
 
 ## Publications
+<p class="hangingindent">"'Is that Possible?': Modes of Concealment in Patricia Highsmith's <em>The Talented Mr. Ripley</em>." <em>Psychoanalysis, Culture & Society.</em> Forthcoming 2026.</p>
+
 <p class="hangingindent">co-edited with Martha Nell Smith, "Susan Dickinson's Travel Journals: 1895 and 1902." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner. Forthcoming. </p>
 
-<p class="hangingindent"> <em>HIV/AIDS and Public Broadcasting.</em> American Archive of Public Broadcasting. Forthcoming December 2024.</p>
+<p class="hangingindent"> <em><a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">HIV/AIDS and Public Broadcasting.</a></em> American Archive of Public Broadcasting. Forthcoming December 2024.</p>
 
 <p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 
