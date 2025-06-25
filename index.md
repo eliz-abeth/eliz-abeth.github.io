@@ -2,8 +2,7 @@
 layout: cv
 title: Elizabeth Dinneny's CV
 ---
-# Elizabeth Dinneny
-PhD Candidate, University of Maryland Department of English
+# Elizabeth Dinneny, PhD
 
 
 <div id="webaddress">
@@ -15,14 +14,14 @@ PhD Candidate, University of Maryland Department of English
 
 ## Education
 
-`2025 (expected)`
+`2025`
 __Doctor of Philosophy, English__
 - University of Maryland, College Park
 - Dissertation: "Spectral Bodies: Housing, Status Property, and Sexuality in U.S. Literature"
-- Committee: GerShun Avilez (chair), David Simon, Martha Nell Smith, Alexis Lothian
+- Committee: GerShun Avilez (chair), David Simon, Martha Nell Smith, Alexis Lothian, Peter Mallios
 - Research focus: late 19th-21st century U. S. literature and poetry, queer and trans materialisms, phenomenology, affect studies, racial capitalism, digital humanities, queer book history
 
-`(2025)`
+`2025`
 __Graduate Certificate in Critical Theory__  
 __Graduate Certificate in Women's, Gender, and Sexuality Studies__
 
@@ -34,7 +33,7 @@ __Bachelor of Arts, English and Religious Studies__
 - Rhodes College
 
 ## Teaching
-`2020-current`
+`2020-2025`
 __Graduate Student Instructor, Department of English, University of Maryland__
 - *Dickinson Electronic Archives* Digital Humanities Internship (ENGL388D). 1-7 students. 10 sections.
 - Fantasy Literature (ENGL256). 30 students. 1 section.
@@ -42,7 +41,6 @@ __Graduate Student Instructor, Department of English, University of Maryland__
 - Academic Writing (ENGL101). 20 students. 1 section.
 
 ## Publications
-<p class="hangingindent">"'Is that Possible?': Modes of Concealment in Patricia Highsmith's <em>The Talented Mr. Ripley</em>." <em>Psychoanalysis, Culture & Society.</em> Forthcoming 2026.</p>
 
 <p class="hangingindent">co-edited with Martha Nell Smith, "Susan Dickinson's Travel Journals: 1895 and 1902." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner. Forthcoming. </p>
 
@@ -51,7 +49,7 @@ __Graduate Student Instructor, Department of English, University of Maryland__
 <p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 
 ## Paper Presentations
-<p class="hangingindent">“‘I Could Love Differently’: Poetics of Queer Intimacy in Late Capitalism.” Northeast Modern Language Association Conference. Philadelphia, PA, March 2025 (accepted). </p>
+<p class="hangingindent">“‘I Could Love Differently’: Poetics of Queer Intimacy in Late Capitalism.” Northeast Modern Language Association Conference. Philadelphia, PA, March 2025. </p>
 
 <p class="hangingindent">"'Two People to Take Care Of’: A Phenomenology of Spectral Identity in Patricia Highsmith's <em>The Talented Mr. Ripley</em>.” Mid-Atlantic Popular & American Culture Association. Philadelphia, PA, November 2023. </p>
 
@@ -76,7 +74,7 @@ __Graduate Student Instructor, Department of English, University of Maryland__
 
 ## Digital Archives Experience
 
-`2020-current`
+`2020-2025`
 __Project Manager, *Dickinson Electronic Archives*__ 
 <ul class="a"> 
 <li>Design course syllabus with focus on feminist digital humanities, queer studies, and Dickinson scholarship</li>  
@@ -89,7 +87,7 @@ __Project Manager, *Dickinson Electronic Archives*__
 </ul>
 
 
-`2024-current`
+`2024`
 __Consultant, Recovery Hub for American Women Writers__
 <ul class="a">
 <li>Support a wide range of digital humanities projects</li>
@@ -130,7 +128,7 @@ Cynthia Marshall Award, Rhodes College
 Religious Studies Award, Rhodes College
 
 ## Service
-`2024-current`
+`2024`
 Facilitator, <a href="https://www.instagram.com/umdlavenderlounge/">Lavender Lounge</a>, University of Maryland
 
 `2023-current`
@@ -159,6 +157,6 @@ National Women's Studies Association
 Society for the Study of American Women Writers  
 \
 \
-Last updated: September 2024   /  [GitHub](https://github.com/eliz-abeth)  /  [Twitter](https://x.com/elizdin)
+Last updated: June 2025   /  [GitHub](https://github.com/eliz-abeth)  
 
 
