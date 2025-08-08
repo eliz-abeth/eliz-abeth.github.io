@@ -33,6 +33,10 @@ __Bachelor of Arts, English and Religious Studies__
 - Rhodes College
 
 ## Teaching
+`2025-present`  
+__Instructor, University of Southern California, Capital Campus__
+- Writing and Critical Reasoning--Globalization: Current Issues and Cross-Cultural Perspectives (WRIT150). 15 students. 4 sections.
+
 `2020-2025`
 __Graduate Student Instructor, Department of English, University of Maryland__
 - *Dickinson Electronic Archives* Digital Humanities Internship (ENGL388D). 1-7 students. 10 sections.
@@ -157,6 +161,6 @@ National Women's Studies Association
 Society for the Study of American Women Writers  
 \
 \
-Last updated: June 2025   /  [GitHub](https://github.com/eliz-abeth)  
+Last updated: August 2025   /  [GitHub](https://github.com/eliz-abeth)  
 
 
