@@ -33,13 +33,14 @@ __Bachelor of Arts, English and Religious Studies__
 - Rhodes College
 
 ## Teaching
-`2025-present`  
-__Instructor, University of Southern California, Capital Campus__
+`2025-present`
+__Instructor, The Writing Program, University of Southern California, Capital Campus__
 - Writing and Critical Reasoning--Globalization: Current Issues and Cross-Cultural Perspectives (WRIT150). 15 students. 4 sections.
 
 `2020-2025`
-__Graduate Student Instructor, Department of English, University of Maryland__
+__Graduate Student Instructor, Department of English, University of Maryland, College Park__
 - *Dickinson Electronic Archives* Digital Humanities Internship (ENGL388D). 1-7 students. 10 sections.
+- Reading Women Writing (ENGL265). 30 students. 1 section.
 - Fantasy Literature (ENGL256). 30 students. 1 section.
 - LGBTQ+ Literatures and Media (ENGL265/LGBT265). 30 students. 2 sections.
 - Academic Writing (ENGL101). 20 students. 1 section.
@@ -48,7 +49,7 @@ __Graduate Student Instructor, Department of English, University of Maryland__
 
 <p class="hangingindent">co-edited with Martha Nell Smith, "Susan Dickinson's Travel Journals: 1895 and 1902." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner. Forthcoming. </p>
 
-<p class="hangingindent"> <em><a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">HIV/AIDS and Public Broadcasting.</a></em> American Archive of Public Broadcasting. Forthcoming December 2024.</p>
+<p class="hangingindent"> <em><a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">HIV/AIDS and Public Broadcasting.</a></em> American Archive of Public Broadcasting. December 2024.</p>
 
 <p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 

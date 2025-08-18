@@ -14,7 +14,7 @@ PhD Candidate, University of Maryland Department of English
 
 ## Digital archives
 `2024`
-__*HIV/AIDS and Public Broadcasting* (forthcoming)__
+<em><a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">HIV/AIDS and Public Broadcasting.</a></em>
 - Digital exhibit for the American Archive of Public Broadcasting
 
 `ongoing` 
