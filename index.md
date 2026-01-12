@@ -47,6 +47,8 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 
 ## Publications
 
+<p class="hangingindent">"'But This is My Own Maze'": Disorientation and Postwar Anxieties in Shirley Jackon's <em>The Sundial.</em>" <em>Critical Insights: Shirley Jackson.</em> ed. Joseph Michael Sommers. Salem Press, 2026 (forthcoming). 
+
 <p class="hangingindent">co-edited with Martha Nell Smith, "Susan Dickinson's Travel Journals: 1895 and 1902." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner. Forthcoming. </p>
 
 <p class="hangingindent"> <em><a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">HIV/AIDS and Public Broadcasting.</a></em> American Archive of Public Broadcasting. December 2024.</p>
@@ -155,13 +157,8 @@ Affect Theory Reading Group, University of Maryland
 `2019-2020`
 Critical Theory Colloquium, University of Maryland
 
-## Organizational Memberships
-American Studies Association  
-Modern Language Association  
-National Women's Studies Association  
-Society for the Study of American Women Writers  
 \
 \
-Last updated: August 2025   /  [GitHub](https://github.com/eliz-abeth)  
+Last updated: January 2026   /  [GitHub](https://github.com/eliz-abeth)  
 
 
