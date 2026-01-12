@@ -47,7 +47,7 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 
 ## Publications
 
-<p class="hangingindent">"'But This is My Own Maze'": Disorientation and Postwar Anxieties in Shirley Jackon's <em>The Sundial.</em>" <em>Critical Insights: Shirley Jackson.</em> ed. Joseph Michael Sommers. Salem Press, 2026 (forthcoming). 
+<p class="hangingindent">"'But This is My Own Maze'": Disorientation and Postwar Anxieties in Shirley Jackon's <em>The Sundial.</em>" <em>Critical Insights: Shirley Jackson.</em> ed. Joseph Michael Sommers. Salem Press, 2026 (forthcoming). </p>
 
 <p class="hangingindent">co-edited with Martha Nell Smith, "Susan Dickinson's Travel Journals: 1895 and 1902." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner. Forthcoming. </p>
 
