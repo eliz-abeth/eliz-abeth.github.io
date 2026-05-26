@@ -2,12 +2,11 @@
 layout: cv
 title: portfolio
 ---
-# Elizabeth Dinneny
-PhD Candidate, University of Maryland Department of English
-
+# Elizabeth Dinneny, PhD
+Instructor, Dornsife Writing Program, University of Southern California
 
 <div id="webaddress">
-<a href="mailto:edinneny@gmail.com">edinneny@gmail.com</a> // <a href="eliz-abeth.github.io">back to CV</a>
+<a href="mailto:dinneny@usc.edu">dinneny@usc.edu</a> // <a href="eliz-abeth.github.io">back to CV</a>
 
 </div>
 

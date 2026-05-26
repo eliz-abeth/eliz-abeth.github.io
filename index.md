@@ -6,35 +6,38 @@ title: Elizabeth Dinneny's CV
 
 
 <div id="webaddress">
-<a href="mailto:edinneny@gmail.com">edinneny@gmail.com</a> // 
+<a href="mailto:dinneny@usc.edu">dinneny@usc.edu</a> // 
 <a href="/portfolio">view portfolio</a>
 
 </div>
+
+## Currently
+
+Instructor in the Dornsife Writing Program at the University of Southern California
+
+### Reserach Interests 
+
+late 19th-21st century U. S. literature, queer and trans materialisms, real estate history, phenomenology, affect studies, racial capitalism, digital humanities, queer book history
 
 
 ## Education
 
 `2025`
-__Doctor of Philosophy, English__
+__PhD, English__
 - University of Maryland, College Park
-- Dissertation: "Spectral Bodies: Housing, Status Property, and Sexuality in U.S. Literature"
-- Committee: GerShun Avilez (chair), David Simon, Martha Nell Smith, Alexis Lothian, Peter Mallios
-- Research focus: late 19th-21st century U. S. literature and poetry, queer and trans materialisms, phenomenology, affect studies, racial capitalism, digital humanities, queer book history
-
-`2025`
-__Graduate Certificate in Critical Theory__  
-__Graduate Certificate in Women's, Gender, and Sexuality Studies__
-
-- University of Maryland, College Park
+- Dissertation: "Schematic Bodies: Housing, Status Property, and Sexuality in U.S. Literature"
+- Graduate Certificate in Critical Theory
+- Graduate Certificate in Women's, Gender, and Sexuality Studies
 
 `2019`
-__Bachelor of Arts, English and Religious Studies__
+__BA, English and Religious Studies__
 
 - Rhodes College
 
 ## Teaching
 `2025-present`
-__Instructor, The Writing Program, University of Southern California, Capital Campus__
+__Instructor, Dornsife Writing Program, University of Southern California, Capital Campus__
+- Advanced Writing for the Social Sciences (WRIT340). 1 section.
 - Writing and Critical Reasoning--Globalization: Current Issues and Cross-Cultural Perspectives (WRIT150). 15 students. 4 sections.
 
 `2020-2025`
@@ -46,6 +49,7 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 - Academic Writing (ENGL101). 20 students. 1 section.
 
 ## Publications
+<p class="hangingindent">with Jeannette Schollaert, "The Cather Archive and the Dickinson Electronic Archive: Models, Lessons, and Activities for Undergraduates Exploring American Women's Archives." <em>The Oxford Handbook to Willa Cather</em>, ed. Emily J. Rau. Oxford University Press, 2027 (forthcoming). </p>
 
 <p class="hangingindent">"'But This is My Own Maze'": Disorientation and Postwar Anxieties in Shirley Jackon's <em>The Sundial.</em>" <em>Critical Insights: Shirley Jackson.</em> ed. Joseph Michael Sommers. Salem Press, 2026 (forthcoming). </p>
 
@@ -56,6 +60,8 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 <p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 
 ## Paper Presentations
+<p class="hangingindent">“‘But This is My Own Maze’: Disorientation and Postwar Anxiety in Shirley Jackson's *The Sundial.*" American Literature Association Annual Conference, Chicago, IL, May 2026. </p>
+
 <p class="hangingindent">“‘I Could Love Differently’: Poetics of Queer Intimacy in Late Capitalism.” Northeast Modern Language Association Conference. Philadelphia, PA, March 2025. </p>
 
 <p class="hangingindent">"'Two People to Take Care Of’: A Phenomenology of Spectral Identity in Patricia Highsmith's <em>The Talented Mr. Ripley</em>.” Mid-Atlantic Popular & American Culture Association. Philadelphia, PA, November 2023. </p>
@@ -83,41 +89,19 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 
 `2020-2025`
 __Project Manager, *Dickinson Electronic Archives*__ 
-<ul class="a"> 
-<li>Design course syllabus with focus on feminist digital humanities, queer studies, and Dickinson scholarship</li>  
-<li>Manage DEA Digital Humanities internship program (1 to 7 interns), including course instruction and XML/TEI training</li>    
-<li>Transcribe Susan Dickinson’s travel journal for digital publication</li>  
-<li>Annotate, edit, and encode Martha Dickinson Bianchi’s memoir for digital publication</li>  
-<li>Led revision of 30+ transcribed items in "<a href="https://www.emilydickinson.org/writings-by-susan-dickinson">Writings by Susan Dickinson</a>"</li>   
-<li>Directed student-written exhibition on queer and feminist transcription practices</li>  
-<li>Developed and co-authored “The Ghosts of Emily Dickinson” exhibit on Dickinson in popular culture</li>  
-</ul>
 
 
 `2024`
 __Consultant, Recovery Hub for American Women Writers__
-<ul class="a">
-<li>Support a wide range of digital humanities projects</li>
-<li>Participate in monthly meetings with Recovery Hub staff</li>
-</ul>
-
-
 
 `2022`
 __Junior Fellow, Library of Congress__
-<ul class="a">
-<li>Authored peer-reviewed digital exhibit, HIV/AIDS and Public Broadcasting, for the American Archive of Public Broadcasting (AAPB)</li>
-<li>Exhibit included 18,000-word analysis and 150 public broadcasting programs</li> 
-<li>Expanded publicly available materials by identifying significant HIV/AIDS-related programming and assisting with rights requests</li>
-<li>Facilitated communication to obtain rights for Robert Hilferty’s award-winning documentary, “Stop the Church”</li>
-<li>Updated metadata for over 100 items in the AAPB online reading room</li>
-<li>Collaborated with Library outreach, social media, and legal teams</li>
-<li>Advised other Junior Fellows on research, writing, and time management strategies</li>
-<li>Represented the Library of Congress at open house for the 2022 American Library Association (ALA) Conference in Washington, D.C.</li>
-</ul> 
+
 
 
 ## Fellowships and Awards
+`2026`
+Carl Bode Dissertation Prize, University of Maryland Department of English
 
 `2023`
 Graduate School Summer Research Fellowship, University of Maryland
@@ -159,6 +143,6 @@ Critical Theory Colloquium, University of Maryland
 
 \
 \
-Last updated: January 2026   /  [GitHub](https://github.com/eliz-abeth)  
+Last updated: May 2026   /  [GitHub](https://github.com/eliz-abeth)  
 
 
