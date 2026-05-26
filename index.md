@@ -22,14 +22,14 @@ late 19th-21st century U. S. literature, queer and trans materialisms, real esta
 
 ## Education
 
-`2025`
+
 __PhD, English__
 - University of Maryland, College Park
 - Dissertation: "Schematic Bodies: Housing, Status Property, and Sexuality in U.S. Literature"
 - Graduate Certificate in Critical Theory
 - Graduate Certificate in Women's, Gender, and Sexuality Studies
 
-`2019`
+
 __BA, English and Religious Studies__
 
 - Rhodes College
@@ -37,16 +37,16 @@ __BA, English and Religious Studies__
 ## Teaching
 `2025-present`
 __Instructor, Dornsife Writing Program, University of Southern California, Capital Campus__
-- Advanced Writing for the Social Sciences (WRIT340). 1 section.
-- Writing and Critical Reasoning--Globalization: Current Issues and Cross-Cultural Perspectives (WRIT150). 15 students. 4 sections.
+- Advanced Writing for the Social Sciences (WRIT340).
+- Writing and Critical Reasoning--Globalization: Current Issues and Cross-Cultural Perspectives (WRIT150). 
 
 `2020-2025`
 __Graduate Student Instructor, Department of English, University of Maryland, College Park__
-- *Dickinson Electronic Archives* Digital Humanities Internship (ENGL388D). 1-7 students. 10 sections.
-- Reading Women Writing (ENGL265). 30 students. 1 section.
-- Fantasy Literature (ENGL256). 30 students. 1 section.
-- LGBTQ+ Literatures and Media (ENGL265/LGBT265). 30 students. 2 sections.
-- Academic Writing (ENGL101). 20 students. 1 section.
+- *Dickinson Electronic Archives* Digital Humanities Internship (ENGL388D). 
+- Reading Women Writing (ENGL265). 
+- Fantasy Literature (ENGL256). 
+- LGBTQ+ Literatures and Media (ENGL265/LGBT265). 
+- Academic Writing (ENGL101). 
 
 ## Publications
 <p class="hangingindent">with Jeannette Schollaert, "The Cather Archive and the Dickinson Electronic Archive: Models, Lessons, and Activities for Undergraduates Exploring American Women's Archives." <em>The Oxford Handbook to Willa Cather</em>, ed. Emily J. Rau. Oxford University Press, 2027 (forthcoming). </p>
@@ -88,14 +88,14 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 ## Digital Archives Experience
 
 `2020-2025`
-__Project Manager, *Dickinson Electronic Archives*__ 
+Project Manager, *Dickinson Electronic Archives*
 
 
 `2024`
-__Consultant, Recovery Hub for American Women Writers__
+Consultant, Recovery Hub for American Women Writers
 
 `2022`
-__Junior Fellow, Library of Congress__
+Junior Fellow, Library of Congress
 
 
 
