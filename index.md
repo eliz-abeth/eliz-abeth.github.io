@@ -13,7 +13,7 @@ title: Elizabeth Dinneny's CV
 
 ## Currently
 
-Instructor in the Dornsife Writing Program at the University of Southern California
+Faculty in the Dornsife Writing Program at the University of Southern California
 
 ### Reserach Interests 
 
@@ -23,7 +23,7 @@ late 19th-21st century U. S. literature, queer and trans materialisms, real esta
 ## Education
 
 
-__PhD, English__
+__PhD, English Language and Literature__
 - University of Maryland, College Park
 - Dissertation: "Schematic Bodies: Housing, Status Property, and Sexuality in U.S. Literature"
 - Graduate Certificate in Critical Theory
@@ -59,22 +59,22 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 
 <p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 
-## Paper Presentations
-<p class="hangingindent">“‘But This is My Own Maze’: Disorientation and Postwar Anxiety in Shirley Jackson's *The Sundial.*" American Literature Association Annual Conference, Chicago, IL, May 2026. </p>
+## Paper Presentations (selected)
+<p class="hangingindent">with Jeannette Schollaert. “Student Transcription, Archival Authority, and the <em>Dickinson Electronic Archives.</em>” Revolutations and Reflections: A Conference for Editing and Recovery Practitioners. eLaboratories, Center for Digital Editing. Charlottesville, VA, 2026.</p>
+
+<p class="hangingindent">“Versions and Eras: Imagining Celebrity with Dickinson and Swift.” Emily Dickinson International Society Annual Conference, online, August 2026.</p>  
+
+<p class="hangingindent">“‘But This is My Own Maze’: Disorientation and Postwar Anxiety in Shirley Jackson's <em>The Sundial.</em>" American Literature Association Annual Conference. Chicago, IL, May 2026. </p>
 
 <p class="hangingindent">“‘I Could Love Differently’: Poetics of Queer Intimacy in Late Capitalism.” Northeast Modern Language Association Conference. Philadelphia, PA, March 2025. </p>
 
-<p class="hangingindent">"'Two People to Take Care Of’: A Phenomenology of Spectral Identity in Patricia Highsmith's <em>The Talented Mr. Ripley</em>.” Mid-Atlantic Popular & American Culture Association. Philadelphia, PA, November 2023. </p>
+<p class="hangingindent">“'Two People to Take Care Of’: A Phenomenology of Spectral Identity in Patricia Highsmith's <em>The Talented Mr. Ripley</em>.” Mid-Atlantic Popular & American Culture Association. Philadelphia, PA, November 2023. </p>
 
 <p class="hangingindent">“History, Disinterred: Ghosts and Historical (Re)vision in Joy Harjo’s ‘New Orleans.’” Popular Culture / American Culture Association in the South Conference. New Orleans, LA, September 2023.</p>
   
 <p class="hangingindent">“‘Christ…I Wish’: Queer Encounters with Patricia Highsmith’s <em>The Price of Salt</em>.” Queer Bibliography: Tools, Methods, Practices, Approaches. University of London, UK, February 2023. </p>
 
 <p class="hangingindent">“History, Disinterred: Autobiography as Historical (Re)vision in Joy Harjo’s ‘New Orleans.’” GEO Conference. University of Maryland, College Park, MD, 2022. </p>
-
-<p class="hangingindent">“What’s At Stake: Vampiric Christian Bodies.” Rhodes Symposium. Rhodes College, Memphis, TN, 2019.</p>
-
-<p class="hangingindent">“Weird Flex, But OK: Fingering Christ’s Side Wound.” Gender and Sexuality Studies Symposium. Rhodes College, Memphis, TN, 2019. </p>
 
 ## Invited Talks and Events
 <p class="hangingindent">“‘Lust, Degradation and Debauchery’: Lesbian Pulp and Fictional Identities.” Presented to Dylan Lewis’ LGBTQ+ Literatures and Media course at the University of Maryland, College Park, 2023.</p>
@@ -86,6 +86,8 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 
 
 ## Digital Archives Experience
+`2026-present`
+Associate Project Manager, *Dickinson Electronic Archives.*
 
 `2020-2025`
 Project Manager, *Dickinson Electronic Archives*
@@ -119,6 +121,9 @@ Cynthia Marshall Award, Rhodes College
 Religious Studies Award, Rhodes College
 
 ## Service
+`2026`
+University of Southern California WRIT Hiring Committee
+
 `2024`
 Facilitator, <a href="https://www.instagram.com/umdlavenderlounge/">Lavender Lounge</a>, University of Maryland
 
@@ -143,6 +148,6 @@ Critical Theory Colloquium, University of Maryland
 
 \
 \
-Last updated: May 2026   /  [GitHub](https://github.com/eliz-abeth)  
+Last updated: July 2026   /  [GitHub](https://github.com/eliz-abeth)  
 
 
