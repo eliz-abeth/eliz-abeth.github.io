@@ -122,7 +122,7 @@ Religious Studies Award, Rhodes College
 
 ## Service
 `2026`
-University of Southern California WRIT Hiring Committee
+University of Southern California Capital Campus WRIT Hiring Committee
 
 `2024`
 Facilitator, <a href="https://www.instagram.com/umdlavenderlounge/">Lavender Lounge</a>, University of Maryland
