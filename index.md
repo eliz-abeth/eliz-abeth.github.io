@@ -60,7 +60,7 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 <p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 
 ## Paper Presentations (selected)
-<p class="hangingindent">with Jeannette Schollaert. “Student Transcription, Archival Authority, and the <em>Dickinson Electronic Archives.</em>” Revolutations and Reflections: A Conference for Editing and Recovery Practitioners. eLaboratories, Center for Digital Editing. Charlottesville, VA, 2026.</p>
+<p class="hangingindent">with Jeannette Schollaert. “Student Transcription, Archival Authority, and the <em>Dickinson Electronic Archives.</em>” Revolutions and Reflections: A Conference for Editing and Recovery Practitioners. eLaboratories, Center for Digital Editing. Charlottesville, VA, 2026.</p>
 
 <p class="hangingindent">“Versions and Eras: Imagining Celebrity with Dickinson and Swift.” Emily Dickinson International Society Annual Conference, online, August 2026.</p>  
 
@@ -87,7 +87,7 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 
 ## Digital Archives Experience
 `2026-present`
-Associate Project Manager, *Dickinson Electronic Archives.*
+Associate Project Manager, *Dickinson Electronic Archives*
 
 `2020-2025`
 Project Manager, *Dickinson Electronic Archives*
@@ -122,7 +122,7 @@ Religious Studies Award, Rhodes College
 
 ## Service
 `2026`
-University of Southern California Capital Campus WRIT Hiring Committee
+WRIT150 Hiring Committee, USC Capital Campus
 
 `2024`
 Facilitator, <a href="https://www.instagram.com/umdlavenderlounge/">Lavender Lounge</a>, University of Maryland
