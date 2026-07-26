@@ -60,9 +60,9 @@ __Graduate Student Instructor, Department of English, University of Maryland, Co
 <p class="hangingindent">co-written with Jeannette Schollaert, "<a href="https://www.emilydickinson.org/ghosts-of-emily-dickinson-hauntings-in-popular-culture">The Ghosts of Emily Dickinson: Hauntings in Popular Culture</a>." <em>Dickinson Electronic Archives.</em> eds. Martha Nell Smith and Marta Werner, 2021.</p>
 
 ## Paper Presentations (selected)
-<p class="hangingindent">with Jeannette Schollaert. “Student Transcription, Archival Authority, and the <em>Dickinson Electronic Archives.</em>” Revolutions and Reflections: A Conference for Editing and Recovery Practitioners. eLaboratories, Center for Digital Editing. Charlottesville, VA, 2026.</p>
+<p class="hangingindent">with Jeannette Schollaert. “Student Transcription, Archival Authority, and the <em>Dickinson Electronic Archives.</em>” Revolutions and Reflections: A Conference for Editing and Recovery Practitioners. eLaboratories, Center for Digital Editing. Charlottesville, VA, August 2026.</p>
 
-<p class="hangingindent">“Versions and Eras: Imagining Celebrity with Dickinson and Swift.” Emily Dickinson International Society Annual Conference, online, August 2026.</p>  
+<p class="hangingindent">“Versions and Eras: Imagining Celebrity with Dickinson and Swift.” Emily Dickinson International Society Annual Conference, online, July 2026.</p>  
 
 <p class="hangingindent">“‘But This is My Own Maze’: Disorientation and Postwar Anxiety in Shirley Jackson's <em>The Sundial.</em>" American Literature Association Annual Conference. Chicago, IL, May 2026. </p>
 
