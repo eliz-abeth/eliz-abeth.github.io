@@ -13,8 +13,8 @@ Instructor, Dornsife Writing Program, University of Southern California
 
 ## Digital archives
 `2024`
-<em><a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">HIV/AIDS and Public Broadcasting.</a></em>
-- Digital exhibit for the American Archive of Public Broadcasting
+<a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">HIV/AIDS and Public Broadcasting.</a>
+- Digital exhibit for the American Archive of Public Broadcasting, Library of Congress and GBH
 
 `ongoing` 
 <a href="https://www.emilydickinson.org/writings-by-susan-dickinson">__Writings by Susan Dickinson__</a>
