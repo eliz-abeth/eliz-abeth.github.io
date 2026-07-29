@@ -15,7 +15,7 @@ title: Elizabeth Dinneny's CV
 
 Faculty in the Dornsife Writing Program at the University of Southern California
 
-### Reserach Interests 
+### Research Interests 
 
 late 19th-21st century U. S. literature, queer and trans materialisms, real estate history, phenomenology, affect studies, racial capitalism, digital humanities, queer book history
 
