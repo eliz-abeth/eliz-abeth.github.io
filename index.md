@@ -3,6 +3,8 @@ layout: cv
 title: Elizabeth Dinneny's CV
 ---
 # Elizabeth Dinneny, PhD
+Instructor, Dornsife Writing Program, University of Southern California
+
 
 
 <div id="webaddress">
@@ -17,7 +19,7 @@ Faculty in the Dornsife Writing Program at the University of Southern California
 
 ### Research Interests 
 
-late 19th-21st century U. S. literature, queer and trans materialisms, real estate history, phenomenology, affect studies, racial capitalism, digital humanities, queer book history
+late 19th-21st century U.S. literature, queer and trans materialisms, real estate history, phenomenology, affect studies, racial capitalism, digital humanities, queer book history
 
 
 ## Education
@@ -131,7 +133,7 @@ Facilitator, <a href="https://www.instagram.com/umdlavenderlounge/">Lavender Lou
 Volunteer Transcriber, *By the People*, Library of Congress
 
 `2021-2022`
-Advisor, Gaysians at UMD, University of Maryland
+Founding Advisor, Gaysians at UMD, University of Maryland
 
 `2020-2021`
 Secretary, Graduate English Organization, University of Maryland

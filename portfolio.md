@@ -13,7 +13,7 @@ Instructor, Dornsife Writing Program, University of Southern California
 
 ## Digital archives
 `2024`
-<a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">HIV/AIDS and Public Broadcasting.</a>
+<a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">__HIV/AIDS and Public Broadcasting__</a>
 - Digital exhibit for the American Archive of Public Broadcasting, Library of Congress and GBH
 
 `ongoing` 
